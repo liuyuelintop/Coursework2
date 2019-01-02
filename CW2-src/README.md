@@ -1,5 +1,4 @@
 # Aboout
-
 ## Sprite Editor
 
 ### Application
