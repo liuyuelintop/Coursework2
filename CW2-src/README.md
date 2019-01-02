@@ -1,6 +1,5 @@
 # Aboout
 ## Sprite Editor
-
 ### Application
 A simple graphical editor  
 
